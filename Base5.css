@@ -1,0 +1,16 @@
+body{
+    font-family: 'Open Sans', 'Sans Serif';
+}
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    -webkit-animation-name: chgt-couleur;
+    -webkit-animation-duration: 3s;
+    -moz-animation-name: chgt-couleur;
+    -moz-animation-duration: 3s;
+    -o-animation-name: chgt-couleur;
+    -o-animation-duration: 3s;
+    animation-name: chgt-couleur;
+    animation-duration: 3s;
+}
